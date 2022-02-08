@@ -1,0 +1,45 @@
+h2{
+    width: 95%;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+    color: white;
+    font-family: 'Staatliches';
+    font-weight: lighter;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    border-radius: 5%;
+    padding: 10px;
+    border-color: darkgoldenrod;
+    border-width: 10px;
+    border-style: ridge;
+    text-align: center;
+}
+.article{
+    display: flex;
+    flex-direction: column;
+    border-bottom: solid 3px;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.newImage{
+    width: 200px;
+    margin: 20px 5px;
+    border-style: outset;
+    border-color: darkgoldenrod;
+    border-width: 10px;
+    border-radius: 10%;
+}
+
+a{
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: 'Staatliches';
+    font-weight: lighter;
+    color: black;
+}
+
+a:hover{
+    color: darkgoldenrod;
+}

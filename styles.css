@@ -4,6 +4,34 @@ h1{
     font-weight: lighter;
     color: darkgoldenrod;
     text-align: center;
+    margin: 20px 0px 10px 0px;
+}
+
+#theForm{
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    font-size: 30px;
+    background-color: darkgoldenrod;
+    border-style: outset;
+    border-color: darkgoldenrod;
+    border-width: 10px;
+    border-radius: 10%;
+    color: white;
+    font-family: 'Staatliches';
+    font-weight: lighter;
+    margin: 0px 10px;
+}
+#userInput{
+    font-family: 'Staatliches';
+    font-weight: lighter;
+    font-size: 30px;
+    border-color: darkgoldenrod;
+    border-width: 10px;
+    border-radius: 10%;
+    margin: 0px 10px;
 }
 
 h2{
